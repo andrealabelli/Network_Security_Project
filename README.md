@@ -1,5 +1,6 @@
-# Network Security Project ![DDOS](https://github.com/user-attachments/assets/de99a0e7-fd76-4200-9f58-84d23d77b36d)
+![DDOS](https://github.com/user-attachments/assets/de99a0e7-fd76-4200-9f58-84d23d77b36d)
 
+# Network Security Project 
 
 This project is developed for the Network Security exam at University of Cagliari.
 

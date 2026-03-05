@@ -35,7 +35,7 @@ The dataset used is the **TON_IoT_Train_Test_Network dataset**, publicly availab
 To measure performance, Precision, Recall, and F1-score have been used, which are common in classification tasks.
 
 
-$\large\text{Precision} = \frac{\text{TP} + \text{TN}}{\text{TP} + \text{TN} + \text{FP} + \text{FN}}$
+$\large\text{Accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} + \text{TN} + \text{FP} + \text{FN}}$
 
 
 
